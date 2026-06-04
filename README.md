@@ -1,10 +1,8 @@
 # Digging Agent
 
-A starter for the patient information work you didn't sign up for, but have to do.
+A starter agent for summarising top stories from across the Midlands to cut down time spent reading the local and national papers and websites.
 
-Captures your beat, your trusted sources, and your preferred output format — then uses them to produce a daily digest of monitoring, gathering, and triage tasks. The agent does the digging. You do the journalism.
-
-Built for the Women in Journalism workshop on AI agents — May 2026.
+Captures your beat, your trusted sources, and your preferred output format — then uses them to produce a daily digest of monitoring, gathering, and triage tasks.
 
 ---
 
