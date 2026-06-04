@@ -8,33 +8,33 @@
 
 ## Tier 1 — Trusted
 
-*Sources you treat as reliable on first read. The agent can cite them without strong caveats. Specialist publications, peer-reviewed journals, named beat reporters whose work you respect, primary sources (government data, official reports).*
+*Sources you treat as reliable on first read. The agent can cite them without strong caveats.*
 
-**Example:**
-
-**Specialist publications**
-- Health Service Journal (HSJ) — reliable on NHS operations, workforce, finance
-- Pulse — reliable on GP-side stories
-- Pharmaceutical Journal — reliable on community pharmacy and dispensing
+**Trusted news outlets**
+- www.itv.com/news/central
+- www.itv.com/news/anglia
+- www.bbc.co.uk./news/england
+- www.news.sky.com/uk
 
 **Beat reporters (any outlet)**
-- Denis Campbell (Guardian) — health policy
-- Eleanor Hayward (Times) — NHS, social care
-- Hugh Pym (BBC) — health editor
-- Andrew Gregory (Guardian) — health, science
+- Phil Mackie (BBC)
+- Navtej Johal (BBC)
+- Lisa Dowd (Sky News)
+- Shamaan Freeman-Powell (Sky News)
+- Shaun Lintern (The Sunday Times) - does lots of work on health scandals
+- Michael Buchanan (BBC) - does lots of work on health scandals
 
-**Primary sources**
-- NHS England operational stats and workforce data
-- ONS health surveys
-- NICE consultation pages and committee minutes
-- DHSC published guidance and policy papers
-- Peer-reviewed journals: Lancet, BMJ, NEJM, JAMA
-
-**Think tanks I trust on health policy**
-- Nuffield Trust
-- The King's Fund
-- Health Foundation
-- IFS (on health spending)
+**Regional police forces - for breaking news or court cases**
+- West Midlands Police
+- West Mercia Police
+- Warwickshire Police
+- Staffordshire Police
+- Leicestershire Police
+- Nottinghamshire Police
+- Derbyshire Police
+- Northamptonshire Police
+- British Transport Police
+- The National Crime Agency
 
 ---
 
@@ -42,12 +42,25 @@
 
 *Sources worth reading but where you check claims independently. Could be partisan, agenda-driven, or just inconsistent. Useful for tip-offs, not for direct citation.*
 
-**Example:**
-- Industry trade press (PMLive, Pharmaphorum) — useful for pharma signals, but read for industry framing
-- Royal College press releases — reliable but always advocating
-- Patient advocacy groups — useful for case studies, but check funding sources
-- Politico's London Influence health section — well-sourced but rumour-heavy
-- Most national-paper health coverage outside the named reporters above
+**Local papers - any outlet**
+- Birmingham Mail
+- Coventry Telegraph
+- The Express & Star
+- The Stoke Sentinel
+- The Nottingham Post
+- The Derby Telegraph
+- The Leicester Mercury
+- The Tab - good for student based stories, viral trends, gossip
+
+**Local Instagram pages - good for viral videos**
+- @imjustbrum
+- @brum_life_
+
+**University press releases**
+- University of Birmingham
+- Aston University
+- University of Nottingham
+- University of Leicester
 
 ---
 
@@ -55,13 +68,8 @@
 
 *Sources to discount or ignore. The agent should not surface stories from these unless multiple Tier 1 sources have picked them up.*
 
-**Example:**
-- Tabloid health "miracle cure" stories
-- Press releases from supplement companies, private clinics, and consumer health brands
-- Wellness influencers on social media
 - Partisan think tanks running campaigns rather than analysis
 - AI-generated content farms
-- [Any specific sites you want explicitly filtered]
 
 ---
 
@@ -70,20 +78,20 @@
 *A short list of URLs, RSS feeds, or named writers the agent should always check, in priority order. The daily prompt will use this.*
 
 **Example:**
-1. https://www.hsj.co.uk/news (Tier 1)
-2. https://www.england.nhs.uk/news/ (primary)
-3. https://www.gov.uk/government/organisations/department-of-health-and-social-care (primary)
-4. https://www.nice.org.uk/news (primary)
-5. The latest Denis Campbell columns (Guardian)
-6. The latest HSJ workforce coverage
+1. www.bbc.co.uk/news/england
+2. www.news.sky.com/uk
+3. www.itv.com/news/central
+4. www.itv.com/news/anglia
+5. https://www.dailymail.com/home/index.html?dm=8a076543-1589-4c30-8b15-2f559033a950
+6. https://www.birminghammail.co.uk/
+7. https://www.coventrytelegraph.net/
+8. https://www.nottinghampost.com/
+9. https://www.leicestermercury.co.uk/
 
 ---
 
 ## How I want sources flagged in output
 
-*A note for the agent on attribution style. The agent will follow this.*
-
-**Example:**
-- Tier 1 sources: cite by name without caveat. *"HSJ reports..."*, *"NHS England's latest workforce data shows..."*
-- Tier 2 sources: cite with attribution context. *"According to a Politico London Influence item (which is well-sourced but typically rumour-heavy)..."*
+- Tier 1 sources: cite by name without caveat. *"BBC News reports"*, *"West Midlands Police says*
+- Tier 2 sources: cite with attribution context. *"According to the Birmingham Mail"*
 - Tier 3 sources: do not cite. If a Tier 3 source is the only one carrying a story, flag it as: *"Currently only reported by [source], not yet picked up by trusted outlets — monitor."*
