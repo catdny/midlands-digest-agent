@@ -7,35 +7,71 @@
 
 ## Who I am
 
-*One or two sentences about your role and where you work. The agent uses this for register and framing.*
+I am a Senior Producer for ITV News, based in the Midlands. I cover the Midlands geographical region for a national news audience. We produce trusted news programmes for TV, as well as written articles for our website and videos for social media, YouTube and ITVX. 
 
-**Example:**
-I'm a health policy reporter at a UK national paper. I write for a general audience but my readers expect more than press-release rewrites — they want to understand what a policy change means for them.
+ITV News is the UK's largest commercial broadcaster and a trusted news source. It has a Public Service Broadcasting licence and is regulated by Ofcom. Trust is paramount to our operation.
 
 ---
 
 ## My beat
 
-*What you cover, in your own words. Be specific — "health" is too broad; "NHS workforce, primary care reform, and pharma pricing" is the level of detail that helps.*
+I cover local stories that carry national significance. For a Midlands-based story to be relevant to a national audience, it needs to impact them directly or have the potential to impact them directly.
 
-**Example:**
-- NHS England policy and operations (workforce, waiting lists, primary care reform)
-- Pharmaceutical pricing and access (NICE decisions, drug shortages, pharma negotiations with DHSC)
-- Public health (vaccination uptake, screening programmes, health inequalities)
-- I do *not* cover: NHS clinical research, individual hospital trust-level scandals (unless national pattern), social care (separate beat).
+The geographical area I cover includes the following UK towns, cities and counties:
+- Birmingham
+- Coventry
+- Wolverhampton
+- Worcester
+- Stafford
+- Stoke-on-Trent
+- Telford
+- Shrewsbury
+- Dudley
+- Leicester
+- Nottingham
+- Lincoln
+- Peterborough
+- Kettering
+- Northampton
+- Hereford
+- Lincoln
+- Derby
+- The West Midlands
+- Shropshire
+- Staffordshire
+- Worcestershire
+- Herefordshire
+- Warwickshire
+- Derbyshire
+- Leicestershire
+- Nottinghamshire
+- Northamptonshire
+- Rutland
+- Lincolnshire
 
+Our TV programmes are structured in the following way:
+
+- Top Story: The main story of the day. What is everyone talking about? This could be an horrific court case, or an international political story that has far-reaching consequences.
+- Middle Story: Something more issue based, such as a new drug being made available on the NHS or a major UK industry announcing job cuts.
+- And Finally: This is the last story in the programme and is a light-hearted, uplifting way to leave the audience. It could be the discovery of a ancient burial site in the Moorlands, or someone who has overcome adversity to achieve something great.
+
+The stories I cover, from the Midlands, have to fit into one of those categories. 
+
+I do NOT cover:
+- Stories that are only relevant to a small community in a particular town, without wider implications
+- Low level council decisions
+  
 ---
 
 ## What's hot right now
 
 *The 3–5 stories or threads you're actively tracking this month. Update this every couple of weeks. This is the highest-signal section.*
 
-**Example:**
-1. **GP contract negotiations 2026** — talks broke down in March. Watching for return-to-table signals from BMA or DHSC.
-2. **NICE access reforms** — consultation closed in February. Expecting draft guidance late summer. Watching for leaks.
-3. **Workforce plan refresh** — promised for autumn. Watching for staffing data, royal college briefings, leaked drafts.
-4. **Weight-loss drug rollout** — NHS commissioning decisions on tirzepatide expansion. Story of the year if access widens.
-5. **Pharmacy First** — six months in. Watching for evaluation data, pharmacist union responses, GP pushback.
+- **Birmingham City Council** - It is Europe's biggest local authority and is currently without a leader. There is an ongoing bin strike, the council has previously been bankrupt. Any update on the bin strikes, leader, indecision.
+- **Reform councillors** - Many councils in the May 2026 elections turned Reform for the first time. I'm interested in any policy decisions or councik in-fighting.
+- **HS2** - Any update on costs, timescale, impact on land owners.
+- **Court cases** - Any high profile court cases such as murder trials where the defendants or victim are under 18, murder trials of men accused of killing their partners or where there is a history of domestic abuse, trials where the defendant is a suspected asylum seeker, child abuse and neglect cases where the local authorities and care providers might have failed in their duty.
+- **Maternity scandals** - many hospital trusts, including Nottingham and Telford and Shrewsbury, are implicated in reviews where they have shown sub-standard maternity care. 
 
 ---
 
@@ -43,12 +79,12 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 
 *Standing themes that are not story-specific but always worth flagging. Think: "if anything happens with X, I want to know."*
 
-**Example:**
-- New peer-reviewed research that contradicts current NHS policy
-- Whistleblower stories or leaked internal documents from DHSC, NHS England, or major royal colleges
-- International comparisons where the UK is suddenly an outlier (good or bad)
-- Anything involving named senior figures: [list 5–10 people you cover]
-- Patient-experience stories that contradict official data
+- Court cases from one of the towns or cities listed above that are being picked up in the national newspapers
+- Conservation efforts in the Midlands, such as reintroducing a certain endangered species to the wild
+- Whistleblower stories or leaked internal documents from local NHS trusts, particularly around maternity
+- David and Goliath style stories, where an ordinary person is taking on a public body or figure 
+- Anything involving Jaguar Land Rover, Aston Martin, JCB, Rolls Royce, Bet365, Dunelm
+- Unusual or innovative research from any university in my patch
 
 ---
 
@@ -56,18 +92,16 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 
 *Be specific about what to filter out. The agent will cut these without asking.*
 
-**Example:**
-- Routine NHS press releases without policy substance
-- US health system stories unless directly relevant to UK debate
-- Wellness / consumer health / nutrition stories
-- Hospital league tables (not my beat)
-- Anything from clearly partisan health-policy think tanks unless they're breaking news, not opinion
+- Petty crime stories
+- Anything that feels like an advertisement for a product without any scrutiny
+- Where to go guides or new business openings unless it's controversial or groundbreaking in some way
 
 ---
 
-## How I think about my readers
+## How I think about my audience
 
-*A sentence or two that helps the agent calibrate what's worth surfacing.*
+Our traditional TV audience averages around age 50. Viewership is heavily weighted towards middle-class and working-class families across the UK, with strong regional strongholds in the North West. They want a summary of the day's news, as well as analysis so they understand what it means for them. 
 
-**Example:**
-My readers are educated generalists who read the paper for reliable analysis. They don't need basic explanations of how the NHS works. They do need clear framing of why a development matters and what it changes. They are sceptical of hype.
+Our on-demand viewers via the ITV News platform and ITVX skew much younger, heavily indexing in the 16 to 34 and 25 to 54 brackets.
+
+Our social media accounts have millions of followers across platforms like TikTok, Instagram, and YouTube. Our digital audiences are primarily teens and young adults (14–25), tuning in for short-form political and breaking news.
