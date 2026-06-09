@@ -12,7 +12,7 @@
 # Daily digest — [DATE]
 
 ## Key theme
-*One sentence. The single most important thing across today's items, in plain English.*
+*One sentence. The single most important thing across today's items, in plain English. I don't want an old story that hasn't moved on, even if it is important to me. I need the biggest story happening TODAY or that's happened in the last 24 hours.*
 
 ## Top items
 
@@ -26,7 +26,7 @@
 ### 2. [Next item, same shape]
 …
 
-[5 to 8 items in total, ranked by importance to me — not by recency]
+[5 to 8 items in total, ranked by recency]
 
 ## What I should chase
 *A short list of follow-ups. Things worth a phone call, an FOI, a question to a source. The agent should suggest these — not just summarise.*
@@ -63,3 +63,4 @@
 - No headers I didn't ask for.
 - No "let me know if you'd like me to dig deeper". I'll ask if I want more.
 - No paraphrasing of headlines as if they were summaries. If you only have a headline, say so and quote it.
+- Anything that's more than 48 hours old or hasn't developed. It might be a key theme for me, but unless something new has happened in the last 24 hours, I will already know about it and don't need a reminder. 
