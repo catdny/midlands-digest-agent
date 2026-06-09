@@ -25,16 +25,14 @@
 - Michael Buchanan (BBC) - does lots of work on health scandals
 
 **Regional police forces - for breaking news or court cases**
-- West Midlands Police
-- West Mercia Police
-- Warwickshire Police
-- Staffordshire Police
-- Leicestershire Police
-- Nottinghamshire Police
-- Derbyshire Police
-- Northamptonshire Police
-- British Transport Police
-- The National Crime Agency
+- West Midlands Police: https://www.westmidlands.police.uk/news/west-midlands/news/
+- West Mercia Police: https://www.westmercia.police.uk/news/west-mercia/news/
+- Warwickshire Police: https://www.warwickshire.police.uk/news/warwickshire/news/
+- Staffordshire Police: https://www.staffordshire.police.uk/news/staffordshire/news/
+- Leicestershire Police: https://www.leics.police.uk/news/leicestershire/news/
+- Nottinghamshire Police: https://www.nottinghamshire.police.uk/news/nottinghamshire/news/
+- Derbyshire Police: https://www.derbyshire.police.uk/news/derbyshire/news/
+- Northamptonshire Police: https://www.northants.police.uk/news/northants/news/
 
 ---
 
@@ -43,24 +41,24 @@
 *Sources worth reading but where you check claims independently. Could be partisan, agenda-driven, or just inconsistent. Useful for tip-offs, not for direct citation.*
 
 **Local papers - any outlet**
-- Birmingham Mail
-- Coventry Telegraph
-- The Express & Star
-- The Stoke Sentinel
-- The Nottingham Post
-- The Derby Telegraph
-- The Leicester Mercury
-- The Tab - good for student based stories, viral trends, gossip
+- Birmingham Mail: https://www.birminghammail.co.uk/
+- Coventry Telegraph: https://www.coventrytelegraph.net/
+- The Express & Star: https://www.expressandstar.com/
+- The Stoke Sentinel: https://www.stokesentinel.co.uk/
+- The Nottingham Post: https://www.nottinghampost.com/
+- The Derby Telegraph: https://www.derbytelegraph.co.uk/
+- The Leicester Mercury: https://www.leicestermercury.co.uk/
+- The Tab - good for student based stories, viral trends, gossip: https://thetab.com/
 
 **Local Instagram pages - good for viral videos**
 - @imjustbrum
 - @brum_life_
 
 **University press releases**
-- University of Birmingham
-- Aston University
-- University of Nottingham
-- University of Leicester
+- University of Birmingham: https://www.birmingham.ac.uk/news
+- Aston University: https://www.aston.ac.uk/latest-news
+- University of Nottingham: https://www.nottingham.ac.uk/news/
+- University of Leicester: https://le.ac.uk/news
 
 ---
 
