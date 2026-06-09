@@ -15,7 +15,7 @@ ITV News is the UK's largest commercial broadcaster and a trusted news source. I
 
 ## My beat
 
-I cover local stories that carry national significance. For a Midlands-based story to be relevant to a national audience, it needs to impact them directly or have the potential to impact them directly.
+I cover local stories that carry national significance. For a Midlands-based story to be relevant to a national audience, it needs to impact them directly or have wider ramifications.
 
 The geographical area I cover includes the following UK towns, cities and counties:
 - Birmingham
@@ -51,15 +51,16 @@ The geographical area I cover includes the following UK towns, cities and counti
 
 Our TV programmes are structured in the following way:
 
-- Top Story: The main story of the day. What is everyone talking about? This could be an horrific court case, or an international political story that has far-reaching consequences.
+- Top Story: The main story of the day. What is everyone talking about? This could be an horrific court case, or an international story such as the Iran / Israel war. 
 - Middle Story: Something more issue based, such as a new drug being made available on the NHS or a major UK industry announcing job cuts.
 - And Finally: This is the last story in the programme and is a light-hearted, uplifting way to leave the audience. It could be the discovery of a ancient burial site in the Moorlands, or someone who has overcome adversity to achieve something great.
 
-The stories I cover, from the Midlands, have to fit into one of those categories. 
+The stories I cover have to fit into one of those categories. 
 
 I do NOT cover:
-- Stories that are only relevant to a small community in a particular town, without wider implications
-- Low level council decisions
+- Stories that are only relevant to a small community in a particular town, without wider implications.
+- Low level council decisions.
+- Petty street crime.
   
 ---
 
@@ -68,10 +69,9 @@ I do NOT cover:
 *The 3–5 stories or threads you're actively tracking this month. Update this every couple of weeks. This is the highest-signal section.*
 
 - **Birmingham City Council** - It is Europe's biggest local authority and is currently without a leader. There is an ongoing bin strike, the council has previously been bankrupt. Any update on the bin strikes, leader, indecision.
-- **Reform councillors** - Many councils in the May 2026 elections turned Reform for the first time. I'm interested in any policy decisions or councik in-fighting.
-- **HS2** - Any update on costs, timescale, impact on land owners.
+- **Reform councillors** - Many councils in the May 2026 elections turned Reform for the first time. I'm interested in any policy decisions or council in-fighting, bullying allegations, defections to other parties. 
 - **Court cases** - Any high profile court cases such as murder trials where the defendants or victim are under 18, murder trials of men accused of killing their partners or where there is a history of domestic abuse, trials where the defendant is a suspected asylum seeker, child abuse and neglect cases where the local authorities and care providers might have failed in their duty.
-- **Maternity scandals** - many hospital trusts, including Nottingham and Telford and Shrewsbury, are implicated in reviews where they have shown sub-standard maternity care. 
+- **Maternity scandals** - many hospital trusts are implicated in reviews where they have shown sub-standard maternity care. 
 
 ---
 
@@ -82,9 +82,7 @@ I do NOT cover:
 - Court cases from one of the towns or cities listed above that are being picked up in the national newspapers
 - Conservation efforts in the Midlands, such as reintroducing a certain endangered species to the wild
 - Whistleblower stories or leaked internal documents from local NHS trusts, particularly around maternity
-- David and Goliath style stories, where an ordinary person is taking on a public body or figure 
-- Anything involving Jaguar Land Rover, Aston Martin, JCB, Rolls Royce, Bet365, Dunelm
-- Unusual or innovative research from any university in my patch
+- Anything involving Jaguar Land Rover, Aston Martin, JCB, Rolls Royce, Bet365, Dunelm, Gymshark, Emma Bridgewater, Denby
 
 ---
 
@@ -95,6 +93,7 @@ I do NOT cover:
 - Petty crime stories
 - Anything that feels like an advertisement for a product without any scrutiny
 - Where to go guides or new business openings unless it's controversial or groundbreaking in some way
+- Anything that happened more than 48 hours ago, unless there are new developments or the story has changed in some way. This is also true of my 'what's hot right now' criteria.
 
 ---
 
