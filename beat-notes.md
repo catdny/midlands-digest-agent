@@ -67,10 +67,9 @@ I do NOT cover:
 ## What's hot right now
 
 *The 3–5 stories or threads you're actively tracking this month. Update this every couple of weeks. This is the highest-signal section.*
-
-- **Birmingham City Council** - It is Europe's biggest local authority and is currently without a leader. There is an ongoing bin strike, the council has previously been bankrupt. Any update on the bin strikes, leader, indecision.
-- **Reform councillors** - Many councils in the May 2026 elections turned Reform for the first time. I'm interested in any policy decisions or council in-fighting, bullying allegations, defections to other parties. 
+ 
 - **Court cases** - Any high profile court cases such as murder trials where the defendants or victim are under 18, murder trials of men accused of killing their partners or where there is a history of domestic abuse, trials where the defendant is a suspected asylum seeker, child abuse and neglect cases where the local authorities and care providers might have failed in their duty.
+- **Violence against women and girls** - Any cases where a man is accused of inflicting violence or serious harm against a woman or girl. This could be a court case, breaking story or something identified by the Centre for Women's Justice as a case they are tracking. For instance, I am following the case of Ndodana Mkhanyisi Tshuma who is accused of murdering his wife and two children in Denham, UK, and is currently awaiting trial in South Africa. 
 - **Maternity scandals** - many hospital trusts are implicated in reviews where they have shown sub-standard maternity care. 
 
 ---
