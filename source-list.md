@@ -85,6 +85,7 @@
 7. https://www.coventrytelegraph.net/
 8. https://www.nottinghampost.com/
 9. https://www.leicestermercury.co.uk/
+10. Daily police sweep - Check all eight force newsrooms listed under Tier 1 for anything involving a death, serious assault, or arrest of a minor/vulnerable person, even if it doesn't relate to an existing thread. Flag anything that could develop into a Top Story or Middle Story.
 
 ---
 
